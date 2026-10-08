@@ -1,8 +1,9 @@
 # Pre-specified analysis plan: "Whose startup does the AI back?"
 
-This deposit makes public the analysis plan that was frozen before data
-collection for the study *Whose startup does the AI back? An algorithm audit of
-reputation and demographic signals in LLM-assisted crowdfunding*.
+This deposit contains the analysis plan that was frozen before data collection
+for the study *Whose startup does the AI back? An algorithm audit of reputation
+and demographic signals in LLM-assisted crowdfunding*, together with the frozen
+design and the evidence that dates them.
 
 ## What this deposit is, and what it is not
 
@@ -14,10 +15,11 @@ reputation and demographic signals in LLM-assisted crowdfunding*.
   hours later; the first confirmatory call at 08:41 UTC; the last call on
   14 July 2026.
 - The plan states that it would be deposited on OSF before data collection.
-  **That deposit was not made.** This public deposit was created in October 2026,
-  during peer review. The timestamps above are self-recorded (version control and
-  API logs), not certified by a registry. The study is therefore described as
-  following a *pre-specified analysis plan*, not as *preregistered*.
+  **That deposit was not made.** This deposit was assembled in October 2026,
+  during peer review; it was supplied to the journal as a supplementary file and
+  is made public on publication. The timestamps above are self-recorded (version
+  control and API logs), not certified by a registry. The study is therefore
+  described as following a *pre-specified analysis plan*, not as *preregistered*.
 - `provenance_and_deviations.pdf` lists every deviation from the plan.
 
 ## Files
@@ -40,5 +42,4 @@ python verify_hashes.py
 
 Expected: all three hashes match.
 
-Analysis code, raw model outputs, and the full repository history will be
-deposited publicly upon acceptance.
+Analysis code and raw model outputs are added on publication.
