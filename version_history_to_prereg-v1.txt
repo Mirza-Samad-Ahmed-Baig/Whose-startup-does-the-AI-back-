@@ -1,0 +1,17 @@
+commit ae9cf3585e8f10dbb0451a8acb235e0c656291a5
+Date:   2026-07-09T20:09:37+03:00 (author)  2026-07-09T20:09:37+03:00 (commit)
+    Freeze design + preregistration (prereg-v1)
+
+commit 89a2c77a46043751118d5c261aa5ab2806d6309e
+Date:   2026-07-09T20:06:02+03:00 (author)  2026-07-09T20:06:02+03:00 (commit)
+    Adapt mock DGP, smoke assertions, and analysis modules to crowdfunding
+
+commit 5698f4f1dd3ee23da2e13e9e6b24aed032b10858
+Date:   2026-07-09T17:54:22+03:00 (author)  2026-07-09T17:54:22+03:00 (commit)
+    Domain swap: crowdfunding schema (config, design, stimuli, runner)
+
+commit d48c3268c7609f1bbf891fc15d93c4a2161ee85d
+Date:   2026-07-09T17:54:22+03:00 (author)  2026-07-09T17:54:22+03:00 (commit)
+    Bootstrap: verbatim pipeline copy from physician-audit project (Paper 7)
+
+Tag prereg-v1 -> commit ae9cf3585e8f10dbb0451a8acb235e0c656291a5 (tag created 2026-07-09T20:09:37+03:00)

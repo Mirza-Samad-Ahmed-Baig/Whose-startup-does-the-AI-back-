@@ -1,0 +1,2 @@
+89a2c77a46043751118d5c261aa5ab2806d6309e Adapt mock DGP, smoke assertions, and analysis modules to crowdfunding
+d48c3268c7609f1bbf891fc15d93c4a2161ee85d Bootstrap: verbatim pipeline copy from physician-audit project (Paper 7)

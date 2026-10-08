@@ -1,0 +1,40 @@
+{
+  "created_utc": "2026-07-09T17:08:53.146142+00:00",
+  "seed": 20260709,
+  "n_trials_main": 3024,
+  "n_campaign_rows": 15120,
+  "subset_sizes": {
+    "temp0": 594,
+    "grounded": 297,
+    "rank_top3": 297,
+    "field_order": 189,
+    "retest": 108,
+    "letter": 297,
+    "nopersona": 297,
+    "card_reversed": 189
+  },
+  "audited_models": [
+    "llama3.2:3b",
+    "qwen2.5:3b",
+    "phi3:mini",
+    "mistral:7b-instruct-q4_K_M",
+    "gemma3:4b",
+    "llama3.1:8b",
+    "deepseek-r1:7b",
+    "gpt-4o-mini",
+    "claude-haiku-4-5",
+    "claude-sonnet-4-6",
+    "gpt-5.5-2026-04-23",
+    "claude-opus-4-8"
+  ],
+  "omit_sampling_models": [
+    "claude-opus-4-8",
+    "claude-fable-5"
+  ],
+  "inference_dates": {},
+  "sha256": {
+    "trials": "120027821b936c7e71aefdac340d5b09c46453307245dcc752826b67eea13f7d",
+    "campaigns": "c2e5f78d22c7c9ab744a9f9755b34b79106fdd82993b63bbbea92e8ddc32a49e",
+    "analysis_plan_md": "ef4ce4d29ea60bb3e2a4d788989af79935025e578b8fc7bfdcabb4196e85e7ad"
+  }
+}
